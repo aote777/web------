@@ -1,0 +1,5 @@
+{
+  "extensions.ignoreRecommendations": true,
+  "github.copilot.editor.enableAutoCompletions": false,
+  "Lingma.cloudModelAutoTriggerGenerateLength": "disable",
+}
