@@ -42,7 +42,5 @@ console.log('eventLoop end');
 
 
 function deepClone(obj , hash = new WeakMap()){
-  if(obj === null) return obj
-  if(obj instanceof Date) return new Date(obj)
-  if(obj instanceof RegExp) return new RegExp(obj)
+
 }
